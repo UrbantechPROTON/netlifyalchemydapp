@@ -1,6 +1,6 @@
 html,
 body {
-	background-image: url('your-image-url'); /* change this to your image url */
+	background-image: url('https://aqua-deep-pelican-949.mypinata.cloud/ipfs/QmZFGADEDvXLsA1UP4cVNJU2z37S7sukW1eQx8AktB41sD'); /* change this to your image url */
 	background-color: blue; /* this will be the color if the image fails to load */
 	font-family: 'Rubik';
 	font-weight: normal;

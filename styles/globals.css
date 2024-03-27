@@ -1,14 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,500;1,400&display=swap');
-
 html,
 body {
-	background-color: blue;
+	background-image: url('your-image-url'); /* change this to your image url */
+	background-color: blue; /* this will be the color if the image fails to load */
 	font-family: 'Rubik';
 	font-weight: normal;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,500;1,400&display=swap');
+
 h1{
 	margin-bottom: 1rem;
 }
+
 h2{
 	margin-bottom: .5rem;
 	font-weight: normal;
